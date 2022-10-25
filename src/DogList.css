@@ -1,0 +1,14 @@
+.container{
+    margin-top:30px;
+    display:flex;
+    padding-bottom: 1rem;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+.child{
+    border-style:double;
+    border-color:black;
+    padding:0rem;
+    margin: 0.5em;
+}
